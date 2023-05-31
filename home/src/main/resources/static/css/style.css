@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#picture {
+  width: 300px;
+  height: 200px;
+  background-image: url('/images/animal1.jpg');
+  background-size: 80% 80%;
+  background-repeat: no-repeat;
+}
+
+.blind{
+	display: none;		/* 완전히 화면에서 없애버린다. */
+}
